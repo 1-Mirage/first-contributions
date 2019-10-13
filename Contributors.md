@@ -57,7 +57,7 @@
 - [Anuska Sinha](https://github.com/theslytherin)
 - [Bill Kao](https://github.com/billkao1013)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
-- [Ashish prasad](https://github.com/1-Mirage)
+- [Ashish Prasad](https://github.com/1-Mirage)
 - [Garima Mann](https://github.com/garimamann)
 - [Edmon Garcia](https://github.com/vapx)
 - [lxp](https://github.com/pylxp)
